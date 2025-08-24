@@ -10,7 +10,7 @@ const Footer = () => {
             {/* Left Section */}
             <div>
                 <img className='mb-5 w-40' src={assets.logo} alt='Logo' />
-                <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p className='w-full md:w-2/3 text-gray-600 leading-6'>Your one-stop destination for all things beauty. From bridal elegance to party-perfect looks, discover top-rated makeup artists and book your glam session with ease. Trusted experts, stunning results—every time.</p>
             </div>
 
             {/* Cnter Section */}
