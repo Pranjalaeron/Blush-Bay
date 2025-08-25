@@ -4,15 +4,15 @@ import { assets } from '../assets/assets'
 
 const MyProfile = () => {
   const [userData, setUserData] = useState({
-    name: 'Edward Vincent',
+    name: 'Ms. Malini Chopra',
     image: assets.profile_pic,
-    email: 'richardjameswap@gmail.com',
-    phone: '+1  123 456 7890',
+    email: 'malinichopra@gmail.com',
+    phone: '+91-884673479',
     address: {
-      line1: '57th Cross, Richmond',
-      line2: 'Circle, Church Road, London'
+      line1: '123 Blossom Lane',
+      line2: 'Sector 3, Gurgaon'
     },
-    gender: 'Male',
+    gender: 'Female',
     dob: '2000-01-20'
   })
 
